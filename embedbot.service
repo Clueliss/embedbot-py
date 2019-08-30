@@ -1,0 +1,9 @@
+[Unit]
+Description=Meme embed discord bot
+
+[Service]
+ExecStart=/usr/bin/env python3 /usr/bin/embedbot.py
+Type=simple
+
+[Install]
+WantedBy=multi-user.target
