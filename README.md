@@ -1,4 +1,4 @@
-# Embedbot
+# Embedbot [DEPRECATED]
 
 ## Introduction
 
